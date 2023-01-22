@@ -16,7 +16,6 @@ st.write(
     " ###### This app calculates the probablity of having an intervetion based on a number of inputs"
 )
 
-col1, col2, col3 = st.columns(3)
 
 img_file2 = "worker2.png"
 st.image(img_file2, width =700)
