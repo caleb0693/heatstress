@@ -18,7 +18,7 @@ st.write(
 
 
 img_file2 = "termo.png"
-st.image(img_file2, width =350)
+st.image(img_file2, width =370)
 
 
 age = st.number_input('Worker Age',
