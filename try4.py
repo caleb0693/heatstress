@@ -17,7 +17,7 @@ st.write(
 )
 
 
-img_file2 = "worker2.png"
+img_file2 = "termo.png"
 st.image(img_file2, width =350)
 
 
